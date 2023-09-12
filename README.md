@@ -1,2 +1,5 @@
 # bash-scripting
-bash scripting
+```
+bash scripting examples.
+
+```

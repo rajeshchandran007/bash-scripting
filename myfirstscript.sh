@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "how are you doing my friend?"
+echo "how are you doing my friend??"
 echo "my current working directory is: "
 pwd
 myname="Rajesh"
